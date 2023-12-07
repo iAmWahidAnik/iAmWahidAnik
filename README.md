@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/wahidanik007" target="blank"><img src="https://img.shields.io/twitter/follow/wahidanik007?logo=twitter&style=for-the-badge" alt="wahidanik007" /></a> </p>
 
-- 🔭 I’m currently working on [TW Nowrin Front-End]([https://justmusic-e7600.web.app](https://twnowrin-frontend.vercel.app))
+- 🔭 I’m currently working on [TW Nowrin Front-End]([https://justmusic-e7600.web.app](https://twnowrin-frontend.vercel.app)
 
 - 🌱 I’m currently learning **NextJs** **Redux** **RTKQuery**
 
