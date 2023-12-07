@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [TW Nowrin Front-End]([https://justmusic-e7600.web.app](https://twnowrin-frontend.vercel.app))
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **NextJs** **Redux** **RTKQuery**
 
 - 💬 Ask me about **reactJs, javaScript**
 
